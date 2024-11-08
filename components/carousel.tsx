@@ -61,37 +61,37 @@ const data = [
 	{
 		category: "AI Consultation",
 		title: "Expert AI Consultation Services",
-		src: "https://images.unsplash.com/photo-1581091870620-1c1e1c1e1c1e?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3",
+      src: "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8fDB8fHww",
 		content: <DummyContent />,
 	},
 	{
 		category: "Machine Learning",
 		title: "Custom Machine Learning Solutions",
-		src: "https://images.unsplash.com/photo-1581091870620-1c1e1c1e1c1e?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3",
+      src: "https://images.unsplash.com/photo-1508882100003-8ae16a4abbaf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8fDB8fHww",
 		content: <DummyContent />,
 	},
 	{
 		category: "Data Analytics",
 		title: "Transform Data into Insights",
-		src: "https://images.unsplash.com/photo-1581091870620-1c1e1c1e1c1e?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3",
+      src: "https://images.unsplash.com/photo-1526925539332-aa3b66e35444?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D",
 		content: <DummyContent />,
 	},
 	{
 		category: "AI Strategy",
 		title: "Develop Your AI Strategy",
-		src: "https://images.unsplash.com/photo-1581091870620-1c1e1c1e1c1e?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3",
+      src: "https://images.unsplash.com/photo-1531837763904-5d3cb2632ea3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D",
 		content: <DummyContent />,
 	},
 	{
 		category: "Automation",
 		title: "Streamline Your Workflows",
-		src: "https://images.unsplash.com/photo-1581091870620-1c1e1c1e1c1e?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3",
+      src: "https://images.unsplash.com/photo-1713472728570-5a6ef3947de1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D",
 		content: <DummyContent />,
 	},
 	{
 		category: "Training",
 		title: "AI Training Workshops",
-		src: "https://images.unsplash.com/photo-1581091870620-1c1e1c1e1c1e?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3",
+      src: "https://images.unsplash.com/photo-1717502085413-478382daf23f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU0fHxtYWNoaW5lJTIwbGVhcm5pbmd8ZW58MHx8MHx8fDA%3D",
 		content: <DummyContent />,
 	},
 ];

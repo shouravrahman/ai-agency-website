@@ -24,7 +24,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-							src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg"
+                     src="/images/rb.jpg"
 							alt=""
 						/>
 					</div>
@@ -34,7 +34,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-							src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg"
+                     src="/images/vr.jpg"
 							alt=""
 						/>
 					</div>
@@ -44,7 +44,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-							src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg"
+                     src="/images/vr3.jpg"
 							alt=""
 						/>
 					</div>
@@ -56,7 +56,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-							src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg"
+                     src="/images/vr2.jpg"
 							alt=""
 						/>
 					</div>
@@ -66,7 +66,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-							src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg"
+                     src="/images/ai6.jpg"
 							alt=""
 						/>
 					</div>
@@ -76,7 +76,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-							src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg"
+                     src="/images/ai4.jpg"
 							alt=""
 						/>
 					</div>
@@ -98,7 +98,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-							src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg"
+                     src="/images/ml.jpg"
 							alt=""
 						/>
 					</div>
@@ -130,7 +130,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-							src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-10.jpg"
+                     src="/images/ai.jpg"
 							alt=""
 						/>
 					</div>
@@ -140,7 +140,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-							src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-11.jpg"
+                     src="/images/rb2.jpg"
 							alt=""
 						/>
 					</div>

@@ -9,21 +9,21 @@ const cardData = [
 		description:
 			"Utilize labeled data to train models for accurate predictions.",
 		imageUrl:
-			"https://images.unsplash.com/photo-1517242022020-3f3c1c1c1c1c?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3",
+         "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8fDB8fHww",
 	},
 	{
 		title: "Unsupervised Learning",
 		description:
 			"Discover hidden patterns in data without labeled outcomes.",
 		imageUrl:
-			"https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3",
+         "https://images.unsplash.com/photo-1572435555646-7ad9a149ad91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D",
 	},
 	{
 		title: "Reinforcement Learning",
 		description:
 			"Train models through trial and error to maximize rewards.",
 		imageUrl:
-			"https://images.unsplash.com/photo-1517242022020-3f3c1c1c1c1c?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3",
+         "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D",
 	},
 ];
 
@@ -43,6 +43,7 @@ const MachineLearning = () => {
 				<div className="items-center md:flex justify-center md:mx-auto md:space-x-10">
 					{cardData.map((card, index) => (
 						<ThreeDCard
+                     key={index}
 							title={card.title}
 							description={card.description}
 							imageUrl={card.imageUrl}
