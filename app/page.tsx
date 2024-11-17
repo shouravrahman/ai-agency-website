@@ -4,12 +4,8 @@ import { useState, useRef } from "react";
 import Navbar from "@/components/navbar";
 import SliderOne from "@/components/ui/slider";
 import { Spotlight } from "@/components/ui/spotlight";
-import Image from "next/image";
 import Link from "next/link";
 
-import WebsiteDesign from "./ai-solutions";
-import GraphicDesign from "./machine-learning";
-import ShopifyStores from "./ai-consultation";
 import Brands from "./brands";
 import Services from "./service";
 import FAQS from "./faq";
@@ -100,9 +96,18 @@ export default function Home() {
 				<div className="w-full pt-20">
 					<SliderOne />
 				</div>
+
+            <div
+               id="services"
+               ref={servicesRef}
+            >
+               <Services />
+            </div>
 				<div ref={aiSolutionsRef}>
 					<AISolutions />
 				</div>
+
+
 				<div ref={machineLearningRef}>
 					<MachineLearning />
 				</div>
@@ -113,12 +118,7 @@ export default function Home() {
 				<div ref={brandsRef}>
 					<Brands />
 				</div>
-				<div
-					id="services"
-					ref={servicesRef}
-				>
-					<Services />
-				</div>
+
 				<AppleCarousel />
 				<FAQS />
 			</div>

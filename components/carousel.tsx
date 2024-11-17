@@ -44,7 +44,7 @@ const DummyContent = () => {
 							growth.
 						</p>
 						<Image
-							src="https://images.unsplash.com/photo-1581091870620-1c1e1c1e1c1e?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3"
+                     src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGFpJTIwcHJvZHVjdCUyMG1vY2t1cCU1QnxlbnwwfHwwfHx8MA%3D%3D"
 							alt="AI solutions mockup"
 							height="500"
 							width="500"

@@ -28,74 +28,74 @@ const SliderOne = () => {
   }
 
   return (
-     <div>
-        <Slider {...settings}>
-           <div className="rounded-md px-2 md:p-10">
-              <Image
-                 priority
-                 src="/images/ai.jpg"
-                 alt="logo"
-                 width={500}
-                 height={500}
-                 className="
+		<div>
+			<Slider {...settings}>
+				<div className="rounded-md px-2 md:p-10">
+					<Image
+						priority
+						src="/images/ai.webp"
+						alt="logo"
+						width={500}
+						height={500}
+						className="
                   rounded-2xl
                       "
-              />
-           </div>
+					/>
+				</div>
 
-           <div className="rounded-md px-2 md:p-10">
-              <Image
-                 priority
-                 src="/images/ai2.jpg"
-                 alt="logo"
-                 width={500}
-                 height={500}
-                 className="
+				<div className="rounded-md px-2 md:p-10">
+					<Image
+						priority
+						src="/images/ai2.webp"
+						alt="logo"
+						width={500}
+						height={500}
+						className="
                   rounded-2xl
                       "
-              />
-           </div>
+					/>
+				</div>
 
-           <div className="rounded-md px-2 md:p-10">
-              <Image
-                 priority
-                 src="/images/vr.jpg"
-                 alt="logo"
-                 width={500}
-                 height={500}
-                 className="
+				<div className="rounded-md px-2 md:p-10">
+					<Image
+						priority
+						src="/images/vr.webp"
+						alt="logo"
+						width={500}
+						height={500}
+						className="
                   rounded-2xl
                       "
-              />
-           </div>
+					/>
+				</div>
 
-           <div className="rounded-md px-2 md:p-10">
-              <Image
-                 priority
-                 src="/images/ai4.jpg"
-                 alt="logo"
-                 width={500}
-                 height={500}
-                 className="
+				<div className="rounded-md px-2 md:p-10">
+					<Image
+						priority
+						src="/images/ai4.webp"
+						alt="logo"
+						width={500}
+						height={500}
+						className="
                   rounded-2xl
                       "
-              />
-           </div>
+					/>
+				</div>
 
-           <div className="rounded-md px-2 md:p-10">
-              <Image
-                 priority
-                 src="/images/ai6.jpg"
-                 alt="logo"
-                 width={500}
-                 height={500}
-                 className="
+				<div className="rounded-md px-2 md:p-10">
+					<Image
+						priority
+						src="/images/ai6.webp"
+						alt="logo"
+						width={500}
+						height={500}
+						className="
                   rounded-2xl
                       "
-              />
-           </div>
-        </Slider>
-     </div>
+					/>
+				</div>
+			</Slider>
+		</div>
   );
 };
 

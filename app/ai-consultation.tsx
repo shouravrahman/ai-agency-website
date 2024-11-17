@@ -4,12 +4,12 @@ import Image from "next/image";
 
 const consultations = [
 	{
-		image: "/images/image2.png",
+		image: "/images/image2.webp",
 		quote: "The AI consultation transformed our approach, making everything clearer and more efficient.",
 		name: "Alice Johnson",
 	},
 	{
-		image: "/images/shop-2.jpeg",
+		image: "/images/shop-2.webp",
 		quote: "Thanks to the AI insights, we were able to streamline our processes and achieve remarkable results.",
 		name: "Michael Smith",
 	},
