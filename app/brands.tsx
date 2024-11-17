@@ -25,6 +25,9 @@ const logos = [
 	{
 		image: "/logo/logoipsum-249.svg",
 	},
+   {
+      image: "/logo/logoipsum-245.svg",
+   },
 
 ];
 
