@@ -25,9 +25,7 @@ const logos = [
 	{
 		image: "/logo/logoipsum-249.svg",
 	},
-	{
-		image: "/logo/stripelogo.webp",
-	},
+
 ];
 
 const Brands = () => {

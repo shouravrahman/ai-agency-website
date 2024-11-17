@@ -88,7 +88,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-                     src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.webp"
+                     src="https://images.unsplash.com/photo-1710993011875-38d2f3ecf0be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGFpfGVufDB8fDB8fHww"
 							alt=""
 						/>
 					</div>
@@ -108,7 +108,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-                     src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.webp"
+                     src="https://images.unsplash.com/photo-1677691824188-3e266886cb27?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGFpfGVufDB8fDB8fHww"
 							alt=""
 						/>
 					</div>
@@ -120,7 +120,7 @@ const AISolutions = () => {
 							height={500}
 							priority
 							className="h-auto max-w-full rounded-lg"
-                     src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-9.webp"
+                     src="https://images.unsplash.com/photo-1710993011776-b0cf571c7196?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fGFpfGVufDB8fDB8fHww"
 							alt=""
 						/>
 					</div>
